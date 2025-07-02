@@ -48,8 +48,7 @@
 <!-- GitHub Stats Card -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Modhura002&show_icons=true&theme=gruvbox&hide=prs,issues)
 
-<!-- Top Languages Used -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Modhura002&layout=compact&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Modhura002&layout=compact&theme=gruvbox&cache_seconds=1)
 
  
 
