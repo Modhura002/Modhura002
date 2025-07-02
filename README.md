@@ -37,19 +37,21 @@
 - 🎧 Listening to music
 ---
 
+   
+
+
+
+
+
  ### 📊 GitHub Stats
 
+<!-- GitHub Stats Card -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Modhura002&show_icons=true&theme=gruvbox&hide=prs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Modhura002&layout=compact&theme=gruvbox)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Modhura002&theme=gruvbox&hide_border=false)
 
+<!-- Top Languages Used -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Modhura002&layout=compact&theme=gruvbox)
 
-
-
-
-### 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Modhura002&show_icons=true&theme=gruvbox&card_width=600&hide=prs,issues)
+ 
 
 
 ---
