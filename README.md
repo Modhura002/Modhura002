@@ -45,10 +45,11 @@
 
  ### 📊 GitHub Stats
 
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Modhura002&show_icons=true&theme=gruvbox&hide=prs,issues)
+ 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Modhura002&layout=compact&theme=gruvbox&cache_seconds=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Modhura002&show_icons=true&theme=gruvbox&hide=prs,issues)
+
 
  
 
