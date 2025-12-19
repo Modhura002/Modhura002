@@ -56,11 +56,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Modhura002&theme=onedark&margin-w=10&margin-h=10&exclude=Experience)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+ 
 
 
 ### 🔗 Let's Connect!
